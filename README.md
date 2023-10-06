@@ -3,3 +3,5 @@ A simple creation of a wikipedia website. The website gives users the ability to
 
  ### Directions to Launch the webpage
 
+ ### The Wiki
+
